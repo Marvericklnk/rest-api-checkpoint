@@ -1,0 +1,1 @@
+{"name":"rest-api-checkpoint","version":"1.0.0","private":true,"scripts":{"start":"node server.js","test":"node --test"},"description":"GoMyCode Express and Mongoose User REST API","dependencies":{"dotenv":"^18.0.9","express":"^5.3.0","mongoose":"^9.11.4"}}
